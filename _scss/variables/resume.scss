@@ -1,0 +1,20 @@
+.full-horizontal-fixed {
+  left: 0;
+  position: fixed;
+}
+
+.full-vertical-fixed {
+  height: 100%;
+  top: 0;
+  position: fixed;
+  width: 100%;
+}
+
+
+.full-complete-fixed {
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

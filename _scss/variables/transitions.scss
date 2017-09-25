@@ -1,0 +1,15 @@
+$transition-fast: .2s;
+$transition-slow: color 2s ease-in;
+
+.flash {
+  animation: flash-content $transition-slow both;
+}
+
+@keyframes flash-content {
+  0% { 
+    opacity: 0;
+  } 
+  100% {
+    opacity: 1;
+  }
+}
