@@ -1,0 +1,22 @@
+@import '../variables/grid';
+@import '../variables/resume';
+
+$header-padding: 2% $grid-padding;
+
+.header {
+  @extend .full-horizontal-fixed;
+  
+  display: none;
+}
+
+/*
+@media #{$breakpoints-large} {
+  .header {
+
+    display: block;
+    padding: $header-padding;
+    top: 0;
+    z-index: 10;
+  }
+}
+*/

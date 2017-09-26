@@ -1,0 +1,22 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+// variable imports
+
+// variables/colors
+// variables/grid
+// variables/resume
+// variables/typography
+
+// base
+
+@import "base/reset-tag";
+@import "base/reset-form";
+@import "base/common";
+
+// partials
+
+@import "partials/header";
+@import "partials/footer";
+@import "partials/home";

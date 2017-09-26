@@ -1,0 +1,44 @@
+// Part of the pitcher github.com/gruncho/stylestree
+//
+// Licensed under GPL v3 2017.
+// Run thanks to Sass: CSS width superpowers.
+
+@import '../variables/colors';
+@import '../variables/typography';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: $font-family-karla;
+  font-size: 62.5%; // = 10px, 2.4rem 14px, 2.4rem = 24px..
+  font-weight: $font-weight-karla-regular; 
+  min-height: 100%;
+}
+
+strong {
+  font-weight: bold; // revise typo
+}
+
+a {
+  color: inherit;
+}
+
+::-moz-selection {
+  background: $color-gold;
+  color: $color-white;
+}
+
+::selection {
+  background: $color-gold;
+  color: $color-white;
+}
