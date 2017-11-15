@@ -1,0 +1,34 @@
+$profile-avatar-height: 140px;
+$profile-avatar-width: $profile-avatar-height;
+
+.profile__avatar {
+  @extend .rad_circle;
+
+  background: transparent url('../assets/images/javier-blesa.jpg') no-repeat center;
+  backgorund-size: cover;
+  height: $profile-avatar-height;
+  display: block;
+  width: $profile-avatar-width;
+}
+
+.profile__title {
+  font-size: 2rem;
+  padding: 2rem 0;
+}
+
+.profile__link {
+  font-size: 1.25rem;
+  display: block;
+  padding: 0.5rem 0;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.profile__link:before {
+  display: inline-block;
+  margin-right: 1rem;
+  content: '>';
+  font-weight: normal;
+}
