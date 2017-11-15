@@ -1,0 +1,67 @@
+$faq-accordion-question-border: 1px solid #f0f0f0;
+
+.accordion {
+  @extend .rad_medium;
+  
+  background: $color-white;
+}
+
+.accordion__button {
+  @extend .t;
+
+  background: $color-white;
+  border: none;
+  color: $color-corporative;
+  cursor: pointer;
+  display: flex;
+  font-size: 1.5rem;
+  line-height: 1.75rem;
+  outline: none;
+  padding: 2rem;
+  text-align: left;
+  justify-content: space-between;
+  width: 100%;
+
+  &:hover {
+    background: $color-corporative;
+    color: $color-white;
+  }
+}
+
+.accordion__button.active {
+  background: $color-corporative;
+  color: $color-white;
+
+  &:after {
+    color: $color-white;
+  }
+}
+
+.accordion__button:after {
+  font-size: 2rem;
+  content: '\002B';
+  color: $color-corporative;
+  font-weight: bold;
+  flex: 0 1 25px;
+  margin: 0 5px 0 45px;
+}
+
+.accordion__button.active:after {
+  content: "\2212";
+}
+
+.accordion__button:hover,
+.accordion.active {
+  &:after {
+    color: $color-white;
+  }
+}
+
+.accordion__result {
+  border-bottom: $faq-accordion-question-border;
+  padding: 0 2rem;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}

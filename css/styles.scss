@@ -15,8 +15,16 @@
 @import "base/reset-form";
 @import "base/common";
 
+// import
+
+@import "import/mixins";
+@import "import/accordion";
+@import "import/transitions";
+
 // partials
 
 @import "partials/header";
 @import "partials/footer";
 @import "partials/home";
+@import "partials/profile";
+@import "partials/main"; // content style
