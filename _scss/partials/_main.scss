@@ -5,16 +5,18 @@ $section-margin-bottom: 2rem;
   color: $color-second;
 
   p {
-    font-size: 1.15rem;
-    line-height: 1.75rem;
+    font-size: 1.05rem;
+    line-height: 1.45rem;
     margin: 0;
     padding: 0;
   }
 
-  p,
+  p {
+    padding-bottom: .5rem;
+  }
+
   .main__section,
   .main__title,
-  .main__subtitle,
   .main__list {
     padding-bottom: 1rem;
   }
@@ -24,12 +26,12 @@ $section-margin-bottom: 2rem;
   font-size: 1.5rem;
   line-height: 1.55rem;
   font-weight: bold;
-  padding-bottom: 1.5rem !important; // revise
+  padding-bottom: .3rem !important;
 }
 
 .main__section {
   padding: $section-margin-bottom 0;
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid #ccc;
 
   span {
     font-family: Georgia;
@@ -56,4 +58,8 @@ $section-margin-bottom: 2rem;
 .main__list {
   list-style: disc;
   padding-left: 1rem;
+}
+
+.main__list--top {
+  padding-top: 1rem;
 }
