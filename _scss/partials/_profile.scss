@@ -33,7 +33,7 @@ $profile-avatar-rrss-width: 50px;
   flex-flow: row nowrap;
 
   li {
-    flex: 0 1 25%;
+    flex: 0 1 20%;
   }
 }
 
@@ -71,5 +71,10 @@ $profile-avatar-rrss-width: 50px;
 
 .profile__link--mail {
   background: transparent url('../assets/images/rrss/mail.svg') center no-repeat;
-  background-size: 105% auto;
+  background-size: 100% auto;
+}
+
+.profile__link--blog {
+  background: transparent url('../assets/images/rrss/blog.svg') center no-repeat;
+  background-size: 100% auto;
 }
