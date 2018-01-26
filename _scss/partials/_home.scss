@@ -25,18 +25,24 @@ body {
   width: 100%;
 }
 
+.posts {
+  width: 100%;
+}
 
 @media #{$breakpoints-large} {
   .profile__link {
     max-height: 30px;
     max-width: 30px;
   }
+
   .profile{
     max-width: 400px;
   }
+
   .content{
     max-width: 500px;
   }
+
   .profile {
     padding: 0;
     position: absolute;
