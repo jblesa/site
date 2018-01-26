@@ -17,17 +17,26 @@ body {
 }
 
 .profile {
-  max-width: 400px;
   width: 100%;
   padding: 4rem 0;
 }
 
 .content {
   width: 100%;
-  max-width: 700px;
 }
 
+
 @media #{$breakpoints-large} {
+  .profile__link {
+    max-height: 30px;
+    max-width: 30px;
+  }
+  .profile{
+    max-width: 400px;
+  }
+  .content{
+    max-width: 500px;
+  }
   .profile {
     padding: 0;
     position: absolute;
@@ -35,12 +44,14 @@ body {
     top: 0;
     z-index: 20;
   }
-
   .wrap {
     width: 90%;
   }
 
-  .content {
-    padding-top: 10rem;
+}
+@media #{$breakpoints-xlarge} {
+  .content{
+    max-width: 750px;
   }
 }
+
