@@ -11,6 +11,6 @@ Lo primero de todo es agadrecer a @gruncho su ayuda tanto para crear mi web [jav
 Este blog surge con el único objetivo del aprendizaje, tanto mío como de los lectores. EL mío propio porque me motivará más a seguir con proyectos personales como la electrónica, la gestión, la organización personal y temas más caseros. El aprendizaje del resto llagará del esfuerzo que pienso poner en cada artículo que escriba y del feedback que me ofrezcáis.
 
 Sin más, dejo de escribir este artículo de presentación porque ya me están llegando las primeras ideas a la cabeza y no quiero dejar escaparlas. ¡Nos vemos pronto!
-
-![big bang](/assets/images/media/big-bang.jpg)
+<figure class="image"><img src="/assets/images/media/big-bang.jpg" /></figure>
+*<center>Big Bang recreation (CERN)</center>*
 
