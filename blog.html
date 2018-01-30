@@ -12,11 +12,12 @@ permalink: blog.html
         <article>
           <span class="date">{{post.date | date_to_string}}</span>
           <h1>
-            {{ post.title }}
+            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
           </h1>
           
           {{ post.content }}
         </article>
+
         {% endfor %}
       </div>
     </div>
