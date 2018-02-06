@@ -3,7 +3,7 @@
 	<ul class="categories">
 		{% for category in post.categories %}
 
-		<li><a href="/blog/{{ category | slugize }}/">
+		<li class="categories__li"><a class="categories__link" href="/blog/{{ category | slugize }}/">
 			{{ category }}
 		</a></li>
 		{% endfor %}
