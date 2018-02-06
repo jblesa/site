@@ -1,12 +1,15 @@
 <div class="main_cat">
 	
-	<ul class="categories">
-		{% for category in post.categories %}
+  <ul class="categories">
+    {% for category in post.categories %}
 
-		<li class="categories__li"><a class="categories__link" href="/blog/{{ category | slugize }}/">
-			{{ category }}
-		</a></li>
-		{% endfor %}
-		
-	</ul>
+    <li class="categories__li">
+      <a class="categories__link" href="/blog/{{ category | slugize }}/">
+        {{ category }}
+      </a>
+    </li>
+
+    {% endfor %}
+  </ul>
+
 </div>
