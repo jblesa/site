@@ -1,0 +1,12 @@
+<div class="main_cat">
+	
+	<ul class="categories">
+		{% for category in post.categories %}
+
+		<li><a href="/blog/{{ category | slugize }}/">
+			{{ category }}
+		</a></li>
+		{% endfor %}
+		
+	</ul>
+</div>

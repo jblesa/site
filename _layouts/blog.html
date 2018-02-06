@@ -4,6 +4,7 @@
   {% include head.html %}
   <body class="empty">
     <div class="wrap">
+      {% include menu_blog.html %}
       <div class="main">
         {% for post in site.posts %}
         <article>
@@ -11,6 +12,8 @@
           <h1>
             <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
           </h1>
+
+          {% include categories.html %}
           
           {{ post.content }}
         </article>
@@ -20,27 +23,5 @@
     </div>
 
   </div>
-  
-
-
-
-
-<!-- accordion -->
-<script>
-  var acc = document.getElementsByClassName("accordion__button");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].onclick = function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight){
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  }
-}
-</script>
 </body>
 </html>
