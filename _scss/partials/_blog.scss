@@ -70,9 +70,16 @@ img {
 }
 
 .categories{
-	margin-bottom: 1rem;
+	display:flex;
 	flex-flow: row nowrap;
+	justify-content: center;
+	list-style-type: none;
+	margin-bottom: 1rem;
+	padding: 0;
+	overflow: hidden;
 }
+
+
 .categories li {
     display:inline-block;
     margin-left: 5px;
