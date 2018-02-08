@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body class="empty">
+    <div class="wrap">
+      {% include menu_blog.html %}
+      <div class="main">
+        {% for post in site.posts %}
+        <article>
+          <span class="date">{{post.date | date_to_string}}</span>
+          <h1>
+            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+          </h1>
+
+          {% include categories.html %}
+          
+          {{ post.content }}
+        </article>
+
+        {% endfor %}
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

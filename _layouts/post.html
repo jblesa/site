@@ -1,25 +1,34 @@
----
-layout: default
----
 
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <p class="post-date">{{ page.date | date_to_string }}</p>
-  {{ content }}
-</article>
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body class="empty">
+  <div class="wrap">
+    {% include menu_blog.html %}
+    <div class="main">
+      <article>
+        <span class="date">{{page.date | date_to_string}}</span>
+        <h1>
+          {{ page.title }}
+        </h1>
 
-<aside class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
+        <div class="main_cat">
+
+          <ul class="categories">
+            {% for category in page.categories %}
+
+            <li><a href="/blog/{{ category | slugize }}/">
+              {{ category }}
+            </a></li>
+            {% endfor %}
+
+          </ul>
+        </div>
+
+        {{ content }}
+      </article>
+    </div>
+  </div>
+</body>
+</html>
+      

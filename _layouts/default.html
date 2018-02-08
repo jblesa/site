@@ -1,21 +1,11 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
   {% include head.html %}
 <body>
   <div class="wrap">
-    <aside class="profile">
-      <div class="profile__avatar"></div>
-      <div class="profile__title">Javier Blesa Martínez</div>
-      <div class="profile__bio">
-       My name is Javier Blesa. I have a PhD in Telecommunication Engineering and I love electronics.
-      </div>
-      <ul class="profile__links">
-        <li><a class="profile__link profile__link--mail" href="mailto:javierblesam@gmail.com" target="_blank">javierblesam@gmail.com</a></li>
-        <li><a class="profile__link profile__link--linkedin" href="https://www.linkedin.com/in/jblesa/" target="_blank">Linkedin</a></li>
-        <li><a class="profile__link profile__link--twitter" href="https://twitter.com/jblesa/" target="_blank">Twitter</a></li>
-        <li><a class="profile__link profile__link--github" href="https://github.comjblesa/" target="_blank">Github</a></li>
-      </ul>
-    </aside>
+    {% include profile.html %}
     <article class="content">
       <div class="accordion">
         <!-- faq accordion -->

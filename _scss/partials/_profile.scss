@@ -1,6 +1,7 @@
 $profile-avatar-height: 230px;
 $profile-avatar-width: $profile-avatar-height;
-$profile-avatar-rrss-width: 50px;
+$profile-avatar-rrss-width-desktop: 50px;
+$profile-avatar-rrss-width-mobile: 30px;
 
 .profile {
   background: rgba(0,0,0,0.4);
@@ -33,7 +34,7 @@ $profile-avatar-rrss-width: 50px;
   flex-flow: row nowrap;
 
   li {
-    flex: 0 1 25%;
+    flex: 0 1 20%;
   }
 }
 
@@ -42,8 +43,8 @@ $profile-avatar-rrss-width: 50px;
 
   margin-right: 1rem;
   display: inline-block;
-  height: $profile-avatar-rrss-width;
-  width: $profile-avatar-rrss-width;
+  height: $profile-avatar-rrss-width-mobile;
+  width: $profile-avatar-rrss-width-mobile;
   text-indent: 999999px;
   background: red;
 
@@ -71,5 +72,17 @@ $profile-avatar-rrss-width: 50px;
 
 .profile__link--mail {
   background: transparent url('../assets/images/rrss/mail.svg') center no-repeat;
-  background-size: 105% auto;
+  background-size: 100% auto;
+}
+
+.profile__link--blog {
+  background: transparent url('../assets/images/rrss/blog.svg') center no-repeat;
+  background-size: 100% auto;
+}
+
+@media #{$breakpoints-xlarge} {
+  .profile__link {
+    height: $profile-avatar-rrss-width-desktop;
+    width: $profile-avatar-rrss-width-desktop;
+  }
 }
