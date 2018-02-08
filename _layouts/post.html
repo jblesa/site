@@ -17,7 +17,7 @@
           <ul class="categories">
             {% for category in page.categories %}
 
-            <li><a href="{{ site.baseurl }}/category/{{ category | slugize }}/">
+            <li><a href="{{ site.url }}/category/{{ category | slugize }}/">
               {{ category }}
             </a></li>
             {% endfor %}
