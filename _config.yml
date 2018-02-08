@@ -29,6 +29,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 exclude:
   - Gemfile
@@ -41,5 +42,14 @@ sass:
   style: :compressed
 
 # Gems
-gems:
-  - jekyll-feed
+
+
+jekyll-archives:
+  enabled: all
+  layout: 'category'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
