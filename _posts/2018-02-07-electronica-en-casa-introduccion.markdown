@@ -3,6 +3,7 @@ layout: post
 title:  "Electrónica en casa: introducción"
 date:   2018-02-07 12:00:00 +0200
 categories: electronics
+tags: platform hardware communications development test project
 ---
 
 <figure class="image"><img src="/assets/images/media/it-electronics.jpg" /></figure>
@@ -22,7 +23,7 @@ El primer paso sería dividir todo lo necesario para crear un projecto o una ser
 
 * **Equipos de test**. Para probar nuestros proyectos necesitaremos un mínimo de elementos que comentaremos en esta sección.
 
-Según vaya desarrollando cada uno de los artículos, iré añadiendo los enlaces a los mismos en este post. Espero que esto sea de ayuda sobre todo para los que empeicen a trastear por su cuenta en casa.
+Según vaya desarrollando cada uno de los artículos, iré añadiendo los enlaces a los mismos en este post. Espero que esto sea de ayuda sobre todo para los que empiecen a trastear por su cuenta en casa.
 
 
 
