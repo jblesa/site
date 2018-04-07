@@ -48,6 +48,8 @@
   // revise, add class..
 
   h1 {
+    margin-bottom: 2rem;
+    
     a {
       color: $color-black;
     }
@@ -106,35 +108,30 @@ img {
 	right: 0;
 }
 
-.categories{
-	display:flex;
-	flex-flow: row nowrap;
-	justify-content: center;
-	// list-style-type: none;
-	margin-bottom: 1rem;
-	padding: 0;
-	overflow: hidden;
+.categories {
+  list-style-type: none;
+  margin-left: 0 !important; // revise
+  padding: 0;
+
+  li {
+    display: inline-block;
+
+    a {
+      background: $color-black;
+      color: #ccc;
+      font-family: $font-family-anton;
+      font-size: .7rem;
+      letter-spacing: .08em;
+      padding: .5rem .75rem;
+      text-align: center;
+      text-decoration: none;
+      text-transform: uppercase;
+      transition: color .2s;
+
+      &:hover {
+        color: $color-white;
+      }
+    }  
+  }
 }
 
-.categories li {
-	display:inline-block;
-	margin-left: 5px;
-	line-height: 0.05rem;
-}
-
-.categories li a {
-	font-family: 'Anton', sans-serif;
-	letter-spacing: 0.08em;
-	text-transform: uppercase;
-	display: inline-block;
-	color: #ccc;
-	font-size: 0.7rem;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	background: #000;
-}
-
-.categories li a:hover {
-	color: #fff;
-}

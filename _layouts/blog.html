@@ -11,17 +11,13 @@
           <span class="date">{{post.date | date_to_string}}</span>
           <h1>
             <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-          </h1>
-
-          {% include categories.html %}
-          
+          </h1>          
           {{ post.content }}
+          {% include categories.html %}
         </article>
-
         {% endfor %}
       </div>
     </div>
-
   </div>
 </body>
 </html>
