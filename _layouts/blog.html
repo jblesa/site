@@ -5,7 +5,7 @@
   <body class="empty">
     <div class="wrap">
       {% include menu_blog.html %}
-      <div class="main">
+      <div class="main main--blog">
         {% for post in site.posts %}
         <article>
           <span class="date">{{post.date | date_to_string}}</span>

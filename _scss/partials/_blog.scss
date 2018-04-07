@@ -2,27 +2,21 @@
 	background: #fff;
 }
 
-.main {
-	background: #fff;
-	width: 100%;
-	color: #000;
-	max-width: 800px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
+.main--blog {
+  background: #fff;
+  color: #000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  width: 100%;
 
-
-.main {
-	
-	p{
-		display: block;
-		font-size: 21px;
-		line-height: 1.5;
-		margin-left: auto;
-		margin-right: auto;
-		text-align: justify;
-		width: 90%;
+	p {
+    display: block;
+    font-size: 1.25rem;
+    line-height: 1.65rem;
+    margin: 0 auto 1rem auto;
+    width: 90%;
 	}
 }
 
@@ -105,12 +99,4 @@ img {
 
 .categories li a:hover {
 	color: #fff;
-}
-
-ul, ol {
-	margin-top: 0;
-    margin-bottom: 1rem;
-    padding-left: 1.5em;
-    list-style-type: disc;
-
 }
