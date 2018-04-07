@@ -1,10 +1,9 @@
-$profile-avatar-height: 230px;
-$profile-avatar-width: $profile-avatar-height;
+$profile-avatar-size-mobile: 90px;
+$profile-avatar-size-desktop: 140px;
 $profile-avatar-rrss-width-desktop: 50px;
 $profile-avatar-rrss-width-mobile: 30px;
 
 .profile {
-  background: rgba(0,0,0,0.4);
   padding: 2rem;
   z-index: 50;
 }
@@ -13,9 +12,10 @@ $profile-avatar-rrss-width-mobile: 30px;
   @extend .rad_circle;
 
   background: transparent url('../assets/images/javiredes.jpg') no-repeat center;
-  height: $profile-avatar-height;
+  background-size: cover;
   display: block;
-  width: $profile-avatar-width;
+  height: $profile-avatar-size-mobile;
+  width: $profile-avatar-size-mobile;
 }
 
 .profile__title {
@@ -23,9 +23,19 @@ $profile-avatar-rrss-width-mobile: 30px;
   padding: 2rem 0;
 }
 
+.profile__title:after {
+  background: $color-corporative;
+  content: '';
+  display: block;
+  height: 2px;
+  margin-top: 1rem;
+  width: 40px;
+}
+
 .profile__bio {
+  font-family: $font-family-arimo;
   font-size: 1rem;
-  line-height: 1.25rem;
+  line-height: 1.5rem;
   padding-bottom: 2rem;
 }
 
@@ -78,6 +88,13 @@ $profile-avatar-rrss-width-mobile: 30px;
 .profile__link--blog {
   background: transparent url('../assets/images/rrss/blog.svg') center no-repeat;
   background-size: 100% auto;
+}
+
+@media #{$breakpoints-large} {
+  .profile__avatar {
+    height: $profile-avatar-size-desktop;
+    width: $profile-avatar-size-desktop;
+  }
 }
 
 @media #{$breakpoints-xlarge} {
