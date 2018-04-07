@@ -4,15 +4,11 @@
 @import '../variables/colors';
 @import '../variables/transitions';
 
-body {
-  background: $color-corporative url('../assets/images/wall.jpg') center no-repeat fixed;
-  background-size: cover;
-}
-
 .wrap {
-  margin: 5% auto;
-  position: relative;
   display: block;
+  margin: 5% auto;
+  overflow: hidden;
+  position: relative;
   width: 90%;
 }
 
@@ -50,6 +46,7 @@ body {
     top: 0;
     z-index: 20;
   }
+  
   .wrap {
     width: 90%;
   }
