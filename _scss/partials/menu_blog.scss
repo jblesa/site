@@ -10,30 +10,28 @@
 }
 
 .menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    display:flex;
-    justify-content: center;
-}
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display:flex;
+  justify-content: center;
 
-li {
-    display:inline-block;
-}
+  li {
+    a {
+      font-family: 'Anton', sans-serif;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      display: inline-block;
+      color: #ccc;
+      font-size: 1rem;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
 
-li a {
-    font-family: 'Anton', sans-serif;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    display: inline-block;
-    color: #ccc;
-    font-size: 1rem;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    color: #000;
+      &:hover {
+        color: #000;
+      }
+    }
+  }
 }
