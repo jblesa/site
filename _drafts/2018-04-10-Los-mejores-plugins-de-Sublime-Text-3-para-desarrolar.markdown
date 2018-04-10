@@ -1,6 +1,0 @@
-1. [DoxyDoxygen](https://packagecontrol.io/packages/DoxyDoxygen)
-2. [CTags](https://packagecontrol.io/packages/CTags)
-3. [A file Icon](https://packagecontrol.io/packages/A%20File%20Icon)
-4. [File header](https://packagecontrol.io/packages/FileHeader)
-5. [Git](https://packagecontrol.io/search/Git)
-6. [GitGutter](https://packagecontrol.io/packages/GitGutter)
