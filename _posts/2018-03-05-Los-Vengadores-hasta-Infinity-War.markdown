@@ -18,7 +18,10 @@ Tony Stark es un genio, su empresa está revolucionando el armamento del mundo. 
 ## El increíble Hulk
 ## Iron Man 2
 
-Para mi una de las películas más arriesgadas de Marvel y de las mejores. Desde esta película muchos somos fans de Iron Man. EN esta película Tony Stark se enfrenta a Ivan Vanko y a Justin Hammer que pretenden copiar su tecnología para destruirle y hacerse con el control armamentístico de EEUU. Sin embargo, el mayor problema de Tony será que la metralla recibida en Iron Man y el paladio que usa para evitarla le está matando. Al final, gracias a un mensaje oculto de su padre podrá salvarse y crear un nuevo traje sin efectos secundarios.
+Para mi una de las películas más arriesgadas de Marvel y de las mejores. Desde esta película muchos somos fans de Iron Man. Tampoco hay que olvidar, que aquí comienza la andadura de Scarlett Johansson como la Viuda Negra. En esta película Tony Stark se enfrenta a Ivan Vanko y a Justin Hammer que pretenden copiar su tecnología para destruirle y hacerse con el control armamentístico de EEUU. Sin embargo, el mayor problema de Tony será que la metralla recibida en Iron Man y el paladio que usa para evitarla le está matando. Al final, gracias a un mensaje oculto de su padre podrá salvarse y crear un nuevo traje sin efectos secundarios.
+
+![Black Widow](/assets/images/media/scarlett_johansson.jpg)
+
 
 ## Capitán América: El primer Vengador
 
@@ -32,7 +35,9 @@ A pesar de una tregua entre los Asgardianos y los Gigantes de Hielo, estos últi
 
 ## Los Vengadores
 
+Hasta ahora, una de las mejores películas de Marvel. En Los Vengadores, Loki, el hermano de Thor llega a la tierra para robar el Tesaracto. Él ha hecho un pacto con los chitauri y a cambio de la piedra, ellos le ayudarán a conquistar la tierra. Sin embargo, Nick Furia consigue unir a los vengadores por primera vez para salvar la Tierra. La batalla de Nueva York será una de las que mayores consecuencias tenga en la saga.
 
+![Avengers](/assets/images/media/avengers.jpg) 
 
 ## Iron Man 3
 ## Thor: El mundo oscuro
