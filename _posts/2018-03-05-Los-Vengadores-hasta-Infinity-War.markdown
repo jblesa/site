@@ -32,6 +32,9 @@ A pesar de una tregua entre los Asgardianos y los Gigantes de Hielo, estos últi
 
 
 <h2>Guardianes de la Galaxia</h2>
+
+Esta película introduce varias cosas interesantes. La primera de ellas es la aparición de Thanos. Se puede ver como utiliza a Ronan para buscar el Orbe, una de las piedras del infinito. Esto es precisamente el segundo detalle importante de esta película para la historia de Los Vengadores. Star Lord, Rocket, Grut, Gamora y Quill, los Guardianes de la Galaxia, plantrán cara a Ronan y conseguirán derrotarle usando el poderoso Orbe. Finalmente, el Orbe se quedará en manos de Nova Corps, en Xandar.
+
 <h2>Los Vengadores: Era de Ultrón</h2>
 
 En la segunda película de los Vengadores, será Ultrón una inteligencia artificial la que ponga en peligro la tierra. Inicialmente desarrollada por Hydra y con la ayuda del cetro de Loki, Ultrón consigue su máximo potencial cuando Tony Stark pretende usarla para salvar la tierra. Sin embargo, Ultrón toma su propio control y empieza a crear un ejército y su propio cuerpo. Sin embargo, este cuerpo, llamado Visión, que posee la gema de la mente, no será su aliado y ayuda a los vengadores a derrotar a Ultrón. En esta película es la primera vez que Thor explica el significado de las Gemas del Infinto.
