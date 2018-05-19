@@ -8,7 +8,7 @@ tags: Avengers Vengadores Infinity-War
 
 Este es un pequeño resumen de las películas anteriores a Avengers, Infinity War. Las iré completando poco a poco a la vez que las veo yo mismo.
 
-![Películas Avengers](/assets/images/media/Avengers-infinity-War.jpg)
+![Películas Avengers](/assets/images/media/Avengers-Infinity-War.jpg)
 
 
 ## Iron Man
