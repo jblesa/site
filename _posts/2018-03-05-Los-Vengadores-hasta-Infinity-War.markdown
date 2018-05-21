@@ -80,6 +80,8 @@ Los acontecimientos de Sokovia han llevado a un estado límite a los Vengadores.
 
 En esta película se presenta una Gema del Infinito más, la del tiempo. Esta gema ha sido protegida en un templo de la tierra durante siglos por The Ancient One y varios monjes con poderes mágicos. El Doctor Strange por su lado dará con ellos en plena búsqueda de una solución a su grave accidente que le ha dejado las manos inservibles para ser cirujano. Allí aprenderá las artes secretas y sen enfrentará a  Dormammu, un ser de la dimensión oscura que quiere destruir la tierra y hacerse con la piedra.
 
+![Doctor Strange](/assets/images/media/doctor_strange.jpg)
+
 ## Guardianes de la Galaxia vol. 2
 
 Tras derrotar a Ronan, los Guardianes buscan trabajos por la Galaxia. Uno de ellos les llevará a ser contratados por Ayesha. Cuando cumplen el contrato Rocket les roba unas baterías y son perseguidos. En su huida, StarLord se encuentra con su padre, que resulta ser un Celestial. Sin embargo, su padre, Ego, lo que pretende es usar a StarLord para destruir el universo. Tras conseguir vencerle, escapan y consiguen a una nueva amiga, Mantis.
@@ -92,6 +94,7 @@ Esta película supone la entrada de Spider Man en la saga de Marvel. Una histori
 
 La tercera película de Thor tratará sobre la batalla contra Hela, la hermana de Thor. Hela se ha liberado del hechizo que la mantenía presa. Ellallegará a Asgard y en su primera batalla dejará a Thor tuerto y destruirá su martillo. Además Thor quedará varado en un planeta donde será atrapado y utilizado como gladiador. Allí conocerá a Valkiria, un personaje importante en esta película, y a reencontrarse con Hulk. Cuando consigue escapar, tiene que volver a Asgard para derrotar a Hela, y lo consigue gracias a desatar a Ragnarok. Thor, Loki, Valkiria, Heimdall y varios supervivientes escapan en una nave de refugiados.
 
+![Thor Ragnarok](/assets/images/media/thor_ragnarok.jpg)
 
 ## Black Panther
 
