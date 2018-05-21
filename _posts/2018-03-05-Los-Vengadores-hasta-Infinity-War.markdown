@@ -74,12 +74,25 @@ Ant-Man es una de las películas que prácticamente van en paralelo a la de los 
 
 ## Capitán America, Civel War
 
+Los acontecimientos de Sokovia han llevado a un estado límite a los Vengadores. El gobierno y algunos de sus integrantes, creen que son un peligro y eso creará disputas internas. Mientras que Tony Stark está a favor de un control gubernamental mayor, Capitán América está en contra de cualquier control. Esto separará a los Vengadores en dos equipos que lucharán entre sí. Al final, Capitán América, y su equipo se ven obligados a huir de la justicia. 
+
 ## Doctor Strange
+
+En esta película se presenta una Gema del Infinito más, la del tiempo. Esta gema ha sido protegida en un templo de la tierra durante siglos por The Ancient One y varios monjes con poderes mágicos. El Doctor Strange por su lado dará con ellos en plena búsqueda de una solución a su grave accidente que le ha dejado las manos inservibles para ser cirujano. Allí aprenderá las artes secretas y sen enfrentará a  Dormammu, un ser de la dimensión oscura que quiere destruir la tierra y hacerse con la piedra.
 
 ## Guardianes de la Galaxia vol. 2
 
+Tras derrotar a Ronan, los Guardianes buscan trabajos por la Galaxia. Uno de ellos les llevará a ser contratados por Ayesha. Cuando cumplen el contrato Rocket les roba unas baterías y son perseguidos. En su huida, StarLord se encuentra con su padre, que resulta ser un Celestial. Sin embargo, su padre, Ego, lo que pretende es usar a StarLord para destruir el universo. Tras conseguir vencerle, escapan y consiguen a una nueva amiga, Mantis.
+
 ## Spider man, Homecomming
+
+Esta película supone la entrada de Spider Man en la saga de Marvel. Una historia varias veces contada en el cine, que cobra un nuevo aspecto gracias a un Peter Parker gracioso y a un Tony Stark que hace de mentor de pequeño Peter. Aparte de esto, Peter se enfrentará a un grupo de ladrones que, con los escombros alienígenas de Nueva York, ha construido armas muy poderosas.
 
 ## Thor Ragnarok
 
+La tercera película de Thor tratará sobre la batalla contra Hela, la hermana de Thor. Hela se ha liberado del hechizo que la mantenía presa. Ellallegará a Asgard y en su primera batalla dejará a Thor tuerto y destruirá su martillo. Además Thor quedará varado en un planeta donde será atrapado y utilizado como gladiador. Allí conocerá a Valkiria, un personaje importante en esta película, y a reencontrarse con Hulk. Cuando consigue escapar, tiene que volver a Asgard para derrotar a Hela, y lo consigue gracias a desatar a Ragnarok. Thor, Loki, Valkiria, Heimdall y varios supervivientes escapan en una nave de refugiados.
+
+
 ## Black Panther
+
+En esta película se nos presenta Wakanda, un país escondido del mundo gracias al Vibranium y su alte tecnología. Su líder, Black Panther lleva protegiendo este secreto desde hace miles de años, pero el robo de parte del Vibranium llevará a este país a abrirse al mundo.  
