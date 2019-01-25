@@ -3,6 +3,7 @@ layout: post
 title:  "Bienvenidos"
 date:   2018-01-25 12:00:00 +0200
 categories: info personal
+image: bigBang.jpg
 ---
 Bienvenidos a mi nuevo blog. Un rincón muy modesto donde pretendo por enésima vez sentime lo suficientemente agusto para poder contar lo que me apetezca. 
 

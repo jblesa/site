@@ -3,6 +3,7 @@ layout: post
 title:  "Los mejores plugins de Sublime Text 3 para desarrollar"
 date:   2018-04-09 12:00:00 +0200
 categories: software development tools
+image: sublime.jpeg
 ---
 
 ![](/assets/images/media/fileicon.png)

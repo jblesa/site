@@ -3,6 +3,7 @@ layout: post
 title:  "Polar A370"
 date:   2018-09-14 12:00:00 +0200
 categories: gadgets sports
+image: polar.jpg
 ---
 
 Hoy vamos a hablar de mi nuevo gadget: el **Polar A370**. Se trata de una pulsera de monitorización bastante avanzada y con muy buenas prestaciones. Ya os adelanto que durante todo el tiempo que lo he probado me ha encantado.

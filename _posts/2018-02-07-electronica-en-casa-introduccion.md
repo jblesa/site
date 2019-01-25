@@ -4,6 +4,7 @@ title:  "Electrónica en casa: introducción"
 date:   2018-02-07 12:00:00 +0200
 categories: electronics
 tags: platform hardware communications development test project
+image: electronicRed.png
 ---
 
 ![Big Bang recreation (CERN))](/assets/images/media/it-electronics.jpg)

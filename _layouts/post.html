@@ -1,35 +1,31 @@
 
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
-<body class="empty">
-  <div class="wrap">
-    {% include menu_blog.html %}
-    <div class="main main--blog">
-      <article>
-        <span class="date">{{page.date | date_to_string}}</span>
-        <h1>
-          {{ page.title }}
-        </h1>
-
-        <div class="main_cat">
-
-          <ul class="categories">
-            {% for category in page.categories %}
-
-            <!--<li><a href="{{ site.url }}/category/{{ category | slugize }}/">-->
-            <li><a href="#">
-              {{ category }}
-            </a></li>
-            {% endfor %}
-
-          </ul>
-        </div>
-
-        {{ content }}
-      </article>
-    </div>
-  </div>
-</body>
+  {% include head.html %}
+  <body class="empty">
+    <!--<div class="wrap">
+      {% include menu_blog.html %}-->
+      <img class="featured_img" src="{{ site.url }}/assets/images/media/{{ page.image }}">
+      <div class="main main--blog">
+        <article>
+          <h1>
+            {{ page.title }}
+          </h1>
+          {{ content }}
+          <div class="main_cat">
+            <ul class="categories">
+              {% for category in page.categories %}
+              <li>
+                <a href="#">
+                  {{ category }}
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </article>
+      </div>
+    <!--</div>-->
+  </body>
 </html>
       

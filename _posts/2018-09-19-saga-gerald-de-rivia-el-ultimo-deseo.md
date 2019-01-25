@@ -4,13 +4,14 @@ title:  "Saga de Geralt de Rivia: El último deseo"
 date:   2018-09-15 19:00:00 +0200
 categories: books
 tags: witcher Geralt-de-rivia el-ultimo-deseo videojuego
+image: witcher.jpg
 ---
-
-![Saga de Geralt de Rivia](/assets/images/media/saga-gerald-de-rivia-witcher.jpg)
 
 Toda la historia que lleva a escribiros este post comezó un día que hablé con mi hermano para comenzar un juego que me enganchase. No tuvo muchas dudas al recomendarme el **The Witcher III**, del que debería dedicar también aquí un post. Este juego no solo me ha parecido una obra de arte sino que me ha enganchado a toda la **saga de Geralt de Rivia**. Quiero dejar claro que a estas alturas no soy ni de lejos un experto en la saga ya que solo he jugado a The Witcher III y me acabo de terminar el primer libro. Sin embargo, quería ir esribiendo aquí como poco a poco voy descibriendo este mundo y encajando las piezas que no entendía hasta ahora.
 
 Antes de empezar con el libro también quería comentar que, como muchos vosotros sabréis, la serie The Witcher llegará a Netflix en 2019. No se sabe si estará basada en los libros, en los juegos u otra cosa, pero antes de que llegue quería leerme los libros para que no me pase como en Juego de Tronos.
+
+![Saga de Geralt de Rivia](/assets/images/media/saga-gerald-de-rivia-witcher.jpg)
 
 **El último deseo** es el primer libro desde el punto de vista cronológico de la historia. Es un libro curioso ya que reune varias historias cortas donde se nos presenta a Geralt de Rivia, un brujo de profesión y naturaleza, que vive gracias a los trabajos que otros le ofrecen. Curar encantamientos, matar monstruos o resolver misterios son algunos de los encargos que Geralt realiza. En este libro ya podemos ver algunas de las habilidades que el brujo tiene, como su fuerza, visión nocturna o control sobre su propio cuerpo.
 
