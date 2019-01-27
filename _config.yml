@@ -26,6 +26,12 @@ github_username:  jblesa
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+#markdown: redcarpet
 theme: minima
 plugins:
   - jekyll-feed
