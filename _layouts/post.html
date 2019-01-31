@@ -1,31 +1,16 @@
+---
+layout: default
+---
+<article class="article">
 
-<!DOCTYPE html>
-<html lang="en">
-  {% include head.html %}
-  <body class="empty">
-    <!--<div class="wrap">
-      {% include menu_blog.html %}-->
-      <img class="featured_img" src="{{ site.url }}/assets/images/media/{{ page.image }}">
-      <div class="main main--blog">
-        <article>
-          <h1>
-            {{ page.title }}
-          </h1>
-          {{ content }}
-          <div class="main_cat">
-            <ul class="categories">
-              {% for category in page.categories %}
-              <li>
-                <a href="#">
-                  {{ category }}
-                </a>
-              </li>
-              {% endfor %}
-            </ul>
-          </div>
-        </article>
-      </div>
-    <!--</div>-->
-  </body>
-</html>
-      
+  <div class="article__head">
+    <h1 class="article__title">
+      {{ page.title }}
+    </h1>
+  </div>
+
+  <div class="article__content">
+    {{ content }}
+  </div>
+
+</article>
