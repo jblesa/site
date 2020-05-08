@@ -4,6 +4,7 @@ title:  "Electrónica en casa: plataforma"
 date:   2018-02-20 12:00:00 +0200
 categories: electronics
 tags: platform hardware Arduino PIC
+image: electronic.jpg
 ---
 
 Como os comenté el artículo anterior voy a escribir una serie de artículos en los que os intentaré ayudar a encontrar los elementos y equipos necesarios para comenzar a trabajar con la electrónica en casa. Y una de las partes más importantes es la plataforma de desarrollo. 
