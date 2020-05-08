@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integración de GitHub y Visual Stuido Code"
+title:  "Integración de GitHub y Visual Studio Code"
 date:   2020-05-8 13:00:00 +0200
 categories: programming
 tags: VSCode github git VisualStudio
