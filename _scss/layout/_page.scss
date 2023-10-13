@@ -1,0 +1,21 @@
+$page-margin-desktop: 5%;
+
+.page__content,
+.page__header {
+  padding: 2rem 0;
+}
+
+.page__content {
+  position: relative;
+  left: 30%;
+  right: $page-margin-desktop;
+  width: calc( 100% - 35% );
+}
+
+.page__header {
+  height: 100%;
+  left: $page-margin-desktop;
+  position: fixed;
+  top: 0;
+  width: 20%;
+}

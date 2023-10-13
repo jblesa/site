@@ -25,9 +25,10 @@
 // partials
 
 @import "partials/header";
-@import "partials/footer";
-@import "partials/home";
-@import "partials/profile";
-@import "partials/main"; // content style
-@import "partials/blog"; // content style
-@import "partials/menu_blog"; // content style
+@import "partials/article";
+@import "partials/main";
+
+// layout style
+
+@import "layout/page";
+@import "layout/blog";

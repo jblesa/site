@@ -15,10 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Javier Blesa Martínez
 email: javierblesam@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: My name is Javier Blesa. I have a PhD in Telecommunication Engineering and I love electronics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://javierblesa.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jblesa
@@ -46,17 +43,3 @@ exclude:
 sass:
   sass_dir: _scss
   style: :compressed
-
-# Gems
-
-
-jekyll-archives:
-  enabled: all
-  layout: 'category'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-

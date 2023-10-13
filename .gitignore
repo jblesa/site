@@ -1,3 +1,11 @@
+# Jekyll
 _site
-.sass-cache
+_draft
 .jekyll-metadata
+
+# SASS
+.asset-cache
+.sass-cache
+
+# Sysem
+.DS_Store
