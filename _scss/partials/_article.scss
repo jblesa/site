@@ -1,0 +1,54 @@
+.article {
+  max-width: 840px;
+}
+
+.article__title {
+  color: $color-black;
+  font-size: 2rem;
+  padding-bottom: 2rem;
+}
+
+.article__content {
+  font-family: "Arimo", sans-serif;
+  font-size: 1rem;
+  line-height: 1.75rem;
+
+  p,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    padding-bottom: 2rem;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 1.75rem;
+    line-height: 2.25rem;
+    text-transform: uppercase;
+    font-family: "Arimo",sans-serif;
+    font-weight: bold;
+  }
+
+  img,
+  iframe {
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+  }
+
+  iframe {
+    min-height: 400px;
+  }
+
+  .pie {
+    font-size: .85rem;
+    font-style: italic;
+    text-align: center;
+    transform: translateY(-1rem);
+  }
+}

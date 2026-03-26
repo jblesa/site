@@ -1,0 +1,51 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+} 
+
+.header__logo {
+  color: $color-black;
+  font-size: 1.75rem;
+  text-decoration: none;
+}
+
+.header__nav {
+  padding: 2rem 0 0 0;
+
+  .header__link {
+    font-size: 1.25rem;
+    padding-right: 2rem;
+  }
+}
+
+.header__nav--profile {
+  .header__link--profile {
+    color: $color-black;
+  }
+}
+
+.header__nav--blog {
+  .header__link--blog {
+    color: $color-black;
+  }
+}
+
+.header__link {
+  color: $color-gray;
+  display: inline-block;
+  font-size: 1rem;
+  padding-right: 1rem;
+  text-decoration: none;
+  transition: color .4s;
+}
+
+.header__link:hover {
+  color: $color-black;
+}
+
+.header__link--mail {
+  display: block;
+  padding: 2rem 0 !important; // revise
+}
